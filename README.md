@@ -1,4 +1,5 @@
 ### Hi there, I'm **Ali** 👋
+![](https://github.com/Ali-Ahmadii/Ali-Ahmadii/blob/main/images/patrick-dancing-patrick-star.gif)
 # 💻 Technical Skills :
 <div style="display: inline_block">
   <img align="center" alt="C++" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
