@@ -13,6 +13,5 @@
   <img align="center" alt="matlab" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
      <img align="center" alt="numbpy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
       <img align="center" alt="Pandas" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="TensorFlow" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
 </div>
 
