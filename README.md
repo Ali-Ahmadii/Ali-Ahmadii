@@ -2,7 +2,8 @@
 # 💻 Technical Skills :
 <div style="display: inline_block">
     <img align="center" alt="C#" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="dotnetcore" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">  
+  <img align="center" alt="dotnetcore" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"> 
+    <img align="center" alt="MSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
