@@ -10,9 +10,6 @@
   <img align="center" alt="Redis" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
   <img align="center" alt="postgre" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="matlab" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
-     <img align="center" alt="numbpy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-      <img align="center" alt="Pandas" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
     <img align="center" alt="HTML" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="center" alt="BootStrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
